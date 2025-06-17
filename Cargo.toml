@@ -15,7 +15,7 @@ exclude = [
 ]
 
 [dependencies]
-rand = "0.8.3"
+rand = "0.9.1"
 num-traits = "0.2.14"
 ordered-float = "2.2.0"
 smallvec = "1.6.1"
